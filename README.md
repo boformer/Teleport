@@ -1,4 +1,4 @@
 Teleport
 ========
 
-A lightweight teleportation system for Minecraft Multiplayer
+A Lightweight Teleportation Plugin for Sponge Minecraft Multiplayer Servers
